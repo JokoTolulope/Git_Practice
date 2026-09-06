@@ -1,2 +1,3 @@
 # Git Practice
-This is my first update on this file
+This is my first update on this file  
+Changes added from a feature branch
